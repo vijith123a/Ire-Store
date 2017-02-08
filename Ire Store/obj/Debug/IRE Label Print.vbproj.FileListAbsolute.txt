@@ -1,0 +1,52 @@
+E:\Stallion\ScratchNWin\ScratchNWin\ScratchNWin\bin\Debug\IRE Label Print.exe.config
+E:\Stallion\ScratchNWin\ScratchNWin\ScratchNWin\obj\Debug\ResolveAssemblyReference.cache
+E:\Stallion\ScratchNWin\ScratchNWin\ScratchNWin\obj\Debug\IRELabelPrint.Form1.resources
+E:\Stallion\ScratchNWin\ScratchNWin\ScratchNWin\obj\Debug\IRELabelPrint.Resources.resources
+E:\Stallion\ScratchNWin\ScratchNWin\ScratchNWin\obj\Debug\IRE Label Print.vbproj.GenerateResource.Cache
+E:\Stallion\ScratchNWin\ScratchNWin\ScratchNWin\obj\Debug\IRE Label Print.exe.licenses
+E:\Stallion\ScratchNWin\ScratchNWin\ScratchNWin\bin\Debug\IRE Label Print.exe
+E:\Stallion\ScratchNWin\ScratchNWin\ScratchNWin\bin\Debug\IRE Label Print.pdb
+E:\Stallion\ScratchNWin\ScratchNWin\ScratchNWin\bin\Debug\IRE Label Print.xml
+E:\Stallion\ScratchNWin\ScratchNWin\ScratchNWin\bin\Debug\C1.C1Zip.2.dll
+E:\Stallion\ScratchNWin\ScratchNWin\ScratchNWin\bin\Debug\C1.Win.C1Command.2.dll
+E:\Stallion\ScratchNWin\ScratchNWin\ScratchNWin\bin\Debug\C1.Win.C1GanttView.2.dll
+E:\Stallion\ScratchNWin\ScratchNWin\ScratchNWin\bin\Debug\C1.Win.C1Gauge.2.dll
+E:\Stallion\ScratchNWin\ScratchNWin\ScratchNWin\bin\Debug\C1.Win.C1Input.2.dll
+E:\Stallion\ScratchNWin\ScratchNWin\ScratchNWin\bin\Debug\C1.Win.C1Themes.2.dll
+E:\Stallion\ScratchNWin\ScratchNWin\ScratchNWin\bin\Debug\C1.Win.C1TileControl.2.dll
+E:\Stallion\ScratchNWin\ScratchNWin\ScratchNWin\bin\Debug\C1.Win.C1GanttView.2.xml
+E:\Stallion\ScratchNWin\ScratchNWin\ScratchNWin\bin\Debug\C1.Win.C1Gauge.2.xml
+E:\Stallion\ScratchNWin\ScratchNWin\ScratchNWin\bin\Debug\C1.Win.C1TileControl.2.xml
+E:\Stallion\ScratchNWin\ScratchNWin\ScratchNWin\bin\Debug\C1.Win.C1Themes.2.xml
+E:\Stallion\ScratchNWin\ScratchNWin\ScratchNWin\bin\Debug\C1.Win.C1Command.2.xml
+E:\Stallion\ScratchNWin\ScratchNWin\ScratchNWin\bin\Debug\C1.Win.C1Input.2.xml
+E:\Stallion\ScratchNWin\ScratchNWin\ScratchNWin\bin\Debug\C1.C1Zip.2.xml
+E:\Stallion\ScratchNWin\ScratchNWin\ScratchNWin\obj\Debug\IRE Label Print.exe
+E:\Stallion\ScratchNWin\ScratchNWin\ScratchNWin\obj\Debug\IRE Label Print.xml
+E:\Stallion\ScratchNWin\ScratchNWin\ScratchNWin\obj\Debug\IRE Label Print.pdb
+E:\Stallion\Ire Store\bin\Debug\IRE Label Print.exe.config
+E:\Stallion\Ire Store\obj\Debug\IRE Label Print.exe
+E:\Stallion\Ire Store\obj\Debug\IRE Label Print.xml
+E:\Stallion\Ire Store\obj\Debug\IRE Label Print.pdb
+E:\Stallion\Ire Store\obj\Debug\ResolveAssemblyReference.cache
+E:\Stallion\Ire Store\obj\Debug\IRELabelPrint.Form1.resources
+E:\Stallion\Ire Store\obj\Debug\IRELabelPrint.Resources.resources
+E:\Stallion\Ire Store\obj\Debug\IRE Label Print.vbproj.GenerateResource.Cache
+E:\Stallion\Ire Store\obj\Debug\IRE Label Print.exe.licenses
+E:\Stallion\Ire Store\bin\Debug\IRE Label Print.exe
+E:\Stallion\Ire Store\bin\Debug\IRE Label Print.pdb
+E:\Stallion\Ire Store\bin\Debug\IRE Label Print.xml
+E:\Stallion\Ire Store\bin\Debug\C1.C1Zip.2.dll
+E:\Stallion\Ire Store\bin\Debug\C1.Win.C1Command.2.dll
+E:\Stallion\Ire Store\bin\Debug\C1.Win.C1GanttView.2.dll
+E:\Stallion\Ire Store\bin\Debug\C1.Win.C1Gauge.2.dll
+E:\Stallion\Ire Store\bin\Debug\C1.Win.C1Input.2.dll
+E:\Stallion\Ire Store\bin\Debug\C1.Win.C1Themes.2.dll
+E:\Stallion\Ire Store\bin\Debug\C1.Win.C1TileControl.2.dll
+E:\Stallion\Ire Store\bin\Debug\C1.Win.C1GanttView.2.xml
+E:\Stallion\Ire Store\bin\Debug\C1.Win.C1Gauge.2.xml
+E:\Stallion\Ire Store\bin\Debug\C1.Win.C1TileControl.2.xml
+E:\Stallion\Ire Store\bin\Debug\C1.Win.C1Themes.2.xml
+E:\Stallion\Ire Store\bin\Debug\C1.Win.C1Command.2.xml
+E:\Stallion\Ire Store\bin\Debug\C1.Win.C1Input.2.xml
+E:\Stallion\Ire Store\bin\Debug\C1.C1Zip.2.xml

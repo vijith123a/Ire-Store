@@ -1,0 +1,31 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+IRELabelPrint
+</name>
+</assembly>
+<members>
+<member name="M:IRELabelPrint.Connection.GetServerDate(System.Int32)">
+	<summary>
+ Return the ServerDate based on the Given Format
+ </summary>
+	<param name="DtFormat">1.yy,2.yyMM,3.yyMMdd,4.MM</param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:IRELabelPrint.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:IRELabelPrint.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:IRELabelPrint.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
