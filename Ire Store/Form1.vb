@@ -47,10 +47,12 @@ Public Class Form1
             Exit Sub
         End If
         ReturningDataByQ("INSERT INTO [Tbl_ProductMaster]([Code],[Name],[Qty],[Date],[Del])VALUES('" & txtid.Text & "','" & txtname.Text & "','" & txtQty.Text & "',getdate(),0)")
+        txtid.Text = ""
+        txtname.Text = ""
+        txtQty.Text = ""
     End Sub
     Public Function DefaultPrinterName() As String
         Dim oPS As New System.Drawing.Printing.PrinterSettings
-
         Try
             DefaultPrinterName = oPS.PrinterName
         Catch ex As System.Exception
